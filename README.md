@@ -23,3 +23,13 @@ A aplicação foi desenvolvida para funcionar em uma única página *web*.
 ## Funcionalidades
 
 Nesta aplicação, o usuário do sistema pode agendar e excluir consultas, assim como visualizá-las numa única listagem.
+
+
+## Comandos Docker
+
+Construir a imagem do docker: docker build -t frontend-project .
+
+Executar imagem do docker:  docker run -d -p 8000:8000 frontend-project
+
+Acessar o frontend pelo borwser: http://localhost:8000/index.html
+
