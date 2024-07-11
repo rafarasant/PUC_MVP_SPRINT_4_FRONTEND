@@ -47,7 +47,11 @@ http://localhost:8000/index.html
 
 Nesta aplicação, o usuário do sistema pode cadastrar pacientes, agendar e excluir consultas, além de visualizá-las numa única listagem. Também pode atualizar os dados dos pacientes e das consultas.
 
-### 5 - Vídeo de apresentação da aplicação
+### 5 - API Externa
+
+O componente front-end da aplicação faz uso de uma API externa - o ViaCEP. Quando fornecido um determinando CEP (Código de Endereçamento Postal) a ela, são retornados os dados de endereço associados ao código.
+
+### 6 - Vídeo de apresentação da aplicação
 
 O vídeo de apresentação do trabalho pode ser acessado através do link abaixo:
 
