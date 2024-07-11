@@ -10,10 +10,15 @@ para cadastrar os pacientes e marcar suas consultas.
 Este projeto foi desenvolvido para o MVP da Sprint 1 da **Pós Gradução de Engenharia de Softwarer da PUC-Rio**. 
 
 ---
-## Como executar
+### 1 - Clone o repositório
 
-Faça o download do projeto e abra o arquivo index.html no seu browser.
+Clone o repositório através do comando abaixo:
 
+```
+[git clone (...)] (https://github.com/rafarasant/PUC_MVP_SPRINT_4_FRONTEND.git)
+```
+
+### 2 
 ---
 ## Interface da aplicação
 
