@@ -55,4 +55,14 @@ O componente front-end da aplicação faz uso de uma API externa - o ViaCEP. Qua
 
 O vídeo de apresentação do trabalho pode ser acessado através do link abaixo:
 
+```
 https://drive.google.com/file/d/1jMUT1OJBV_OoOJ0radaH3sA5VcgCTCC5/view?usp=sharing
+```
+
+### 7 - Diagrama da aplicação
+
+O diagrama explicativo da aplicação pode ser acessado através do link abaixo:
+
+```
+https://drive.google.com/file/d/1p7vrFVLHh67FFoNMlFysfsfsFu9qZtmb/view?usp=sharing
+```
